@@ -1,0 +1,13 @@
+name: dhash
+description: dHash (compare similarity between images)
+version: 1.0.0
+homepage: https://kawal.dev
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+dependencies:
+  image: 2.1.19
+
+dev_dependencies:
+  test: ^1.14.4
